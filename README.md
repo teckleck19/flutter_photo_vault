@@ -31,6 +31,9 @@ Note: Coded as Android Application in mind.
 2. User create their own password for login.
 3. Cleaning textfield after changing screens (Because pressing the backbutton will actually show the filled textfield)
 3. Better UI design using ThemeData instead of creating styles for each widget.
-4. Extract widgets that are too long.
-5. Use Hero instead of Navigating to new screens for enlarging images.
+4. Use Hero instead of Navigating to new screens for enlarging images.
+5. Better coding practices
+    a. Better usage const,var,late,final.
+    b. Extract widgets that are too long.
+    c. Relationship between Stateless,Stateful and Async, await
 
