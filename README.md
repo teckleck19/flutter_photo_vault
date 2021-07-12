@@ -33,7 +33,7 @@ Note: Coded as Android Application in mind.
 3. Better UI design using ThemeData instead of creating styles for each widget.
 4. Use Hero instead of Navigating to new screens for enlarging images.
 5. Better coding practices
-    a. Better usage const,var,late,final.
-    b. Extract widgets that are too long.
-    c. Relationship between Stateless,Stateful and Async, await
+    - Better usage const,var,late,final.
+    - Extract widgets that are too long.
+    - Relationship between Stateless,Stateful and Async, await
 
